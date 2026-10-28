@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/proftpd-rewrite-utf8trans">proftpd-rewrite-utf8trans</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/proftpd-rewrite-utf8trans"><strong>https://abraxaslabs.tech/research/proftpd-rewrite-utf8trans</strong></a>
+</p>
+
 
 # proftpd-rewrite-utf8trans
 
